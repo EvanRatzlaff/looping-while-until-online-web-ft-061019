@@ -6,6 +6,7 @@ def using_while
   end
 end
 def using_until 
+  using_until = 0
   until using_until == 10
   puts "Wingardium Leviosa"
   counter += 1
